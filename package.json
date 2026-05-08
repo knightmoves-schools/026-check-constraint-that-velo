@@ -1,0 +1,12 @@
+{
+  "name": "sql-assignment",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest --reporters default --reporters jest-summarizing-reporter"
+  },
+  "devDependencies": {
+    "jest": "^29.2.1",
+    "jest-summarizing-reporter": "^1.1.4",
+    "sqlite3": "^5.1.6"
+  }
+}
